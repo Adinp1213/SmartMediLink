@@ -10,9 +10,9 @@ from luma.oled.device import ssd1306, ssd1309, ssd1325, ssd1331, sh1106, sh1107,
 import boto3
 
 s3 = boto3.client('s3',
-                  aws_access_key_id='AKIAWZE4LHRMDMAQAMUT',
-                  aws_secret_access_key='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',
-                  region_name='ap-southeast-1')
+                  aws_access_key_id='put access key id',
+                  aws_secret_access_key=' put secret access key',
+                  region_name='region')
 
 bucket_name = 'smartpills'
 object_key = 'userdetails/userdetails.txt'
