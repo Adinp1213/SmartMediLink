@@ -5,7 +5,6 @@
  Cloud Architecture
  ![image](https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/d20be271-107d-4f70-8a9c-9a460be2e7fd)
 
- FLowchart 
  ![pill_dispenser_flowchart_1](https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/18cefd1b-41a9-40d0-be0c-22938f92d062)
 
 
