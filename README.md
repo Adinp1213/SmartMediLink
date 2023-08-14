@@ -1,6 +1,14 @@
 # smart_pill_dispenser 
  
  This project focuses on providing aid to old age people
+
+ Cloud Architecture
+ ![image](https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/d20be271-107d-4f70-8a9c-9a460be2e7fd)
+
+ FLowchart 
+ ![pill_dispenser_flowchart_1](https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/18cefd1b-41a9-40d0-be0c-22938f92d062)
+
+
  ![WhatsApp Image 2023-08-15 at 00 05 34](https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/3de2fc53-8d88-4f18-9dcb-eace0dee35b5)
 
  ![WhatsApp Image 2023-08-15 at 00 05 35](https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/d9bb251f-2f28-40bc-8b6c-3aadbcdb185a)
@@ -20,4 +28,13 @@
  Demonstration of 3D dispensing model
 
 https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/359432a3-75ce-498f-96e5-39a590397d4c
+
+Gmail Notification
+
+![WhatsApp Image 2023-08-15 at 01 23 34](https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/75eed1a8-a6b4-404c-aa06-8748ce77cbab)
+
+S3 bucket Created in AWS
+
+![image](https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/b853da7c-9598-4a94-9eb2-9ede5d1d776d)
+
 
