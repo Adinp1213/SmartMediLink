@@ -9,7 +9,7 @@
 
  ![WhatsApp Image 2023-08-15 at 00 05 35](https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/14051772-ae53-4794-ae35-921421781379)
 
- Mobile App (Login page)(Google FireBase Integration)
+ Mobile App (Login page)(Google FireBase Authentication)
 
  ![WhatsApp Image 2023-08-15 at 00 08 37](https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/afc0dead-1fea-48e5-8109-bd3892f64dd6)
 
