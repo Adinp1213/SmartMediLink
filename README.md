@@ -12,7 +12,5 @@
  ![WhatsApp Image 2023-08-15 at 00 08 58](https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/1cf69cf7-896c-4e42-8512-b517c1209cdb)
 
 
+https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/359432a3-75ce-498f-96e5-39a590397d4c
 
-
-
- 
