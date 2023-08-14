@@ -17,6 +17,7 @@ populations.
 
  ![pill_dispenser_flowchart_1](https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/18cefd1b-41a9-40d0-be0c-22938f92d062)
 
+Model
 
  ![WhatsApp Image 2023-08-15 at 00 05 34](https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/3de2fc53-8d88-4f18-9dcb-eace0dee35b5)
 
@@ -45,5 +46,13 @@ Gmail Notification
 S3 bucket Created in AWS
 
 ![image](https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/b853da7c-9598-4a94-9eb2-9ede5d1d776d)
+
+In conclusion, the Smart Pill Box is a cutting-edge solution for managing health and ensuring
+that patients with autism, the elderly, and people with disabilities never miss a dose of their
+medication. Its advanced features, including automatic medication reminders, real-time
+monitoring of pill intake, and path detection technology, make it a comprehensive and easy-touse solution for managing health. The Smart Pill Box is a crucial tool for improving the quality of
+life for these populations and ensuring that they receive the care and support they need to stay
+healthy and active. We are confident that this project will have a positive impact on the lives of
+countless individuals and make a meaningful contribution to the field of health management.
 
 
