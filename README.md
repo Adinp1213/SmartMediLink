@@ -12,10 +12,12 @@ with autism, the elderly, and people with disabilities. By reducing the risk of 
 doses of medicine, this project will make a significant impact on the quality of life for these
 populations.
 
+
  Cloud Architecture
  ![image](https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/d20be271-107d-4f70-8a9c-9a460be2e7fd)
 
  ![pill_dispenser_flowchart_1](https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/18cefd1b-41a9-40d0-be0c-22938f92d062)
+
 
 Model
 
@@ -23,29 +25,46 @@ Model
 
  ![WhatsApp Image 2023-08-15 at 00 05 35](https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/d9bb251f-2f28-40bc-8b6c-3aadbcdb185a)
 
+
+ 
  Internal Circuit
 
  ![WhatsApp Image 2023-08-15 at 00 05 35](https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/14051772-ae53-4794-ae35-921421781379)
 
+
+ 
  Mobile App (Login page)(Google FireBase Authentication)
 
  ![WhatsApp Image 2023-08-15 at 00 08 37](https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/afc0dead-1fea-48e5-8109-bd3892f64dd6)
+
 
  Mobile App internal Structure
 
  ![WhatsApp Image 2023-08-15 at 00 08 58](https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/1cf69cf7-896c-4e42-8512-b517c1209cdb)
 
- Demonstration of 3D dispensing model
+
+
+Demonstration of 3D dispensing model
 
 https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/359432a3-75ce-498f-96e5-39a590397d4c
+
+
+
+Full demo of Smart Pill Dispenser
+
+https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/b33297a5-06c6-4f5c-80b7-a90d9d91c463
+
+
 
 Gmail Notification
 
 ![WhatsApp Image 2023-08-15 at 01 23 34](https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/75eed1a8-a6b4-404c-aa06-8748ce77cbab)
 
+
 S3 bucket Created in AWS
 
 ![image](https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/b853da7c-9598-4a94-9eb2-9ede5d1d776d)
+
 
 In conclusion, the Smart Pill Box is a cutting-edge solution for managing health and ensuring
 that patients with autism, the elderly, and people with disabilities never miss a dose of their
