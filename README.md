@@ -24,12 +24,12 @@ populations.
 
 
  <h2 align = 'CENTER'> Model  </h2>
- <img src="https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/3de2fc53-8d88-4f18-9dcb-eace0dee35b5" alt="Cloud Architure" width="500">
- <img src="https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/d9bb251f-2f28-40bc-8b6c-3aadbcdb185a" alt="Cloud Architure" width="500">
+ <img src="https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/3de2fc53-8d88-4f18-9dcb-eace0dee35b5" alt="Cloud Architure" width="400">
+ <img src="https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/d9bb251f-2f28-40bc-8b6c-3aadbcdb185a" alt="Cloud Architure" width="400">
 
    <h2 align = 'CENTER'> Internal Circuit </h2>
- <img src="https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/14051772-ae53-4794-ae35-921421781379" alt="Internal Circuit" width="500">
- <img src="https://github.com/user-attachments/assets/7adb7545-72b6-4d37-8093-d424c25b48cf" alt="Internal Circuit" height="500">
+ <img src="https://github.com/Adinp1213/smart_pill_dispenser/assets/127317650/14051772-ae53-4794-ae35-921421781379" alt="Internal Circuit" width="400">
+ <img src="https://github.com/user-attachments/assets/7adb7545-72b6-4d37-8093-d424c25b48cf" alt="Internal Circuit" height="400">
 
 
 
