@@ -56,9 +56,9 @@ populations.
 
  <h2 align = 'CENTER'> Response Time for SmartMediPill </h2>
 
- <img src="https://github.com/user-attachments/assets/7d0324fd-6810-4929-96e7-f652c3482a9c" alt="Internal Circuit" width="500">
+ <img src="https://github.com/user-attachments/assets/7d0324fd-6810-4929-96e7-f652c3482a9c" alt="Internal Circuit" width="400">
 
-  <img src="https://github.com/user-attachments/assets/5a3ab513-473c-4975-b1c1-153a57404927" alt="Internal Circuit" width="500">
+  <img src="https://github.com/user-attachments/assets/5a3ab513-473c-4975-b1c1-153a57404927" alt="Internal Circuit" width="400">
 
 
 
